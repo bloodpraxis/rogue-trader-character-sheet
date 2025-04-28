@@ -19,7 +19,9 @@ Word means nothing to you? [See the live site for yourself!](https://bloodpraxis
 
 ## Guides
 
-View the [Guide](https://github.com/bloodpraxis/rogue-trader-character-sheet/wiki/Tutorial) or [Absolute Beginner Tutorial](https://github.com/bloodpraxis/rogue-trader-character-sheet/wiki/Absolute-Beginner-Tutorial) for more information on how to use this template.
+View the [Guide](https://github.com/bloodpraxis/rogue-trader-character-sheet/wiki/Tutorial) or [Absolute Beginner Tutorial](https://github.com/bloodpraxis/rogue-trader-character-sheet/wiki/Absolute-Beginner-Tutorial) for more information on how to set up this template.
+
+Check out the [Customisation Basics Guide](https://github.com/bloodpraxis/rogue-trader-character-sheet/wiki/Customisation-Basics) when you're done setting up.
 
 ## Credits
 Dataslate, purity seals, placeholder commissar portrait and character portraits are assets from Warhammer 40,000: Rogue Trader. 
